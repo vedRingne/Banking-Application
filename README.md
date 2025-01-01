@@ -77,3 +77,18 @@ Enter your choice: 2
 
 Enter Account Number: 12345
 Account Number: 12345, Account Holder: John Doe, Balance: 500.0
+
+Technologies Used
+Programming Language: Java
+Data Structures: HashMap for account storage
+Customization
+Add features such as:
+Transaction History: Track all deposits and withdrawals for each account.
+Interest Calculation: Implement interest rates for accounts.
+Password Protection: Add a security layer to accounts.
+License
+This project is open-source and available under the MIT License.
+
+Author
+Developed by Your Name.
+Feel free to reach out for feedback, suggestions, or contributions!
