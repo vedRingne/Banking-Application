@@ -78,6 +78,8 @@ Enter your choice: 2
 Enter Account Number: 12345
 Account Number: 12345, Account Holder: John Doe, Balance: 500.0
 
+
+
 Technologies Used
 Programming Language: Java
 Data Structures: HashMap for account storage
@@ -92,3 +94,10 @@ This project is open-source and available under the MIT License.
 Author
 Developed by Your Name.
 Feel free to reach out for feedback, suggestions, or contributions!
+
+Enjoy managing your bank accounts! 🏦
+
+csharp
+Copy code
+
+Replace the placeholders with your personal information and add further customiz
